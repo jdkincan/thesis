@@ -1,2 +1,2 @@
-# thesis
-Jack Kincannon's Honors Thesis
+# JDK's Honors Thesis
+
